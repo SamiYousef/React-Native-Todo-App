@@ -1,5 +1,5 @@
 # React-Native-Todo-App
 Using reactNative technology to create Todo app
-![Alt text](/snapshots/AddTodo.png?raw=true "AddTodo")
-![Alt text](/snapshots/Dashboard.png?raw=true "Dashboard")
-![Alt text](/snapshots/TodoList.png?raw=true "TodoList")
+<img src="/snapshots/AddTodo.png" height="400" alt="AddTodo"/> 
+<img src=“/snapshots/Dashboard.png" height="400" alt="Dashboard"/>
+<img src=“/snapshots/TodoList.png" height="400" alt="TodoList"/>
