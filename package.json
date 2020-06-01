@@ -13,7 +13,9 @@
     "react": "16.11.0",
     "react-native": "0.62.2",
     "react-native-gesture-handler": "^1.6.1",
-    "react-native-ionicons": "^4.6.5"
+    "react-native-ionicons": "^4.6.5",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5"
   },
   "devDependencies": {
     "@babel/core": "^7.10.1",

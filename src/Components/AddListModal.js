@@ -1,8 +1,7 @@
 import React, { Component } from 'react'
 import { Text, TextInput, StyleSheet, View, KeyboardAvoidingView, TouchableOpacity } from 'react-native'
 import Icon from 'react-native-ionicons'
-import Colors from '../Colors';
-import tempData from '../tempData';
+import Colors from '../../Colors';
 
 export default class AddListModal extends Component {
     backgroundColors = ['#DCD859', '#24A6D9', '#595BD9', '#8022D9', '#D159D8', '#D85962', '#D88559']

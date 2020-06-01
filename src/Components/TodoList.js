@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { Text, StyleSheet, View, TouchableOpacity, Modal } from 'react-native'
-import Colors from '../Colors';
+import Colors from '../../Colors';
 import TodoModal from './TodoModal';
 
 export default class TodoList extends Component {

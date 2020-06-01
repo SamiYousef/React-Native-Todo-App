@@ -12,8 +12,8 @@ import {
     Animated
 } from 'react-native'
 import Icon from 'react-native-ionicons'
-import Colors from '../Colors';
-import Styles from '../Styles';
+import Colors from '../../Colors';
+import Styles from '../../Styles';
 import { Swipeable } from 'react-native-gesture-handler'
 
 export default class TodoModal extends Component {
